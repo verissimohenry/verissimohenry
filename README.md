@@ -8,7 +8,7 @@
 * :computer: HTML, CSS, JS
 
 ### Design and Development
-![screenshot](image.png/Screenshot.png) 
+![screenshot](https://github.com/verissimohenry/verissimohenry/blob/main/Screenshot%20from%202021-03-07%2015-18-54.png) 
 
 I am a full-stack software developer, javascript enthusiast, and photographer.
 
