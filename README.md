@@ -8,6 +8,7 @@
 * :computer: HTML, CSS, JS
 
 ### Design and Development
+![screenshot](image.png/Screenshot.png) 
 
 I am a full-stack software developer, javascript enthusiast, and photographer.
 
