@@ -28,4 +28,4 @@ Skills: REACT / JS / HTML / CSS
 
 
 
-![Verissimo's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![Verissimo's github stats](https://github-readme-stats.vercel.app/api?username=verissimohenry)
