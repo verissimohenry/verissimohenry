@@ -29,8 +29,5 @@ Skills: REACT / JS / HTML / CSS
 
 
 ![Verissimo's github stats](https://github-readme-stats.vercel.app/api?username=verissimohenry)
-<a href="#stats" align="center" style="width:100%">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verissimo-henry&hide=Makefile&theme=react" style='display: width: 50%; height: 170px'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=verissimo-henry&show_icons=true&line_height=33.5&count_private=true&theme=react" alt="Greg0109's GitHub Stats" style='width: 50%'>
-</a>
+<[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=verissimohenry)](https://github.com/anuraghazra/github-readme-stats)
 
