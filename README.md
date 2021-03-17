@@ -7,9 +7,6 @@
 * :iphone: React Native
 * :computer: HTML, CSS, JS
 
-### Design and Development
-![screenshot](https://github.com/verissimohenry/verissimohenry/blob/main/Screenshot%20from%202021-03-07%2015-18-54.png) 
-
 I am a full-stack software developer, javascript enthusiast, and photographer.
 
 I enjoy thought-provoking conversations about new languages, frameworks, and the African tech start-up scene.
