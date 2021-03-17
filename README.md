@@ -5,7 +5,7 @@
 ## Skills and Experience 
 * :snowflake: React
 * :iphone: React Native
-* :computer: HTML, CSS, JS
+* :computer: HTML, CSS
 * ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 I am a full-stack software developer, javascript enthusiast, and photographer.
