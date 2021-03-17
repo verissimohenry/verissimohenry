@@ -5,7 +5,7 @@
 ## Skills and Experience 
 * :snowflake: React
 * :iphone: React Native
-* :computer: HTML, CSS,JS
+* :computer: HTML, CSS, JS
 
 
 ## Studying
