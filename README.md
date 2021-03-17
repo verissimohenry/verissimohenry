@@ -27,5 +27,7 @@ I am open to new opportunities. You can check me out on social media https://lin
 
 ## Personal Stats
 ![Verissimo's github stats](https://github-readme-stats.vercel.app/api?username=verissimohenry)
+
+## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=verissimohenry&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
