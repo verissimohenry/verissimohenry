@@ -1,12 +1,10 @@
-x-special/nautilus-clipboard
-copy
-file:///home/henry/Downloads/giphy-backdrop.mp4
-
+<iframe src="https://giphy.com/embed/sRTIHWEEKDtm4QIjeX" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sRTIHWEEKDtm4QIjeX">via GIPHY</a></p>
 
 
 <h1 align="center">Hi 👋, I'm Henry Verissimo</h1>
 
 <h3 align="center">A full-stack web developer from Nigeria</h3>
+
 
 - 🔭 I’m currently working on My own company and Studing at ![](https://img.shields.io/badge/Microverse-blueviolet)
 
