@@ -11,6 +11,8 @@
 ## Studying
 - 🔭 I’m currently working on My own company and Studing at ![](https://img.shields.io/badge/Microverse-blueviolet)
 
+- 👨‍💻 All of my projects are available at **[verissimocapital.netlify](https://verissimocapital.netlify.app/)**
+
 I am a full-stack software developer, javascript enthusiast, and photographer.
 
 I enjoy thought-provoking conversations about new languages, frameworks, and the African tech start-up scene.
@@ -29,9 +31,6 @@ I am open to new opportunities. You can check me out on social media https://lin
 
 ## Personal Stats
 ![Verissimo's github stats](https://github-readme-stats.vercel.app/api?username=verissimohenry)
-
-## Portfolio
-https://verissimocapital.netlify.app/
 
 ## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=verissimohenry&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
