@@ -1,4 +1,4 @@
-<a href="https://media.giphy.com/media/sRTIHWEEKDtm4QIjeX/giphy.gif"</a>
+<a href=https://media.giphy.com/media/sRTIHWEEKDtm4QIjeX/giphy.gif</a>
 
 <h1 align="center">Hi 👋, I'm Henry Verissimo</h1>
 
