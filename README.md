@@ -1,5 +1,3 @@
-https://media.giphy.com/media/EUUM7e1rqTMpqUIrGe/giphy.gif
-
 <h1 align="center">Hi 👋, I'm Henry Verissimo</h1>
 
 <h3 align="center">A full-stack web developer from Nigeria</h3>
