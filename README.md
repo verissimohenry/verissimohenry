@@ -1,6 +1,5 @@
-<p align="center">
 ![Design and Development](https://image.freepik.com/free-vector/blogger-photographer-sitting-floor-editing-video-laptop-social-media-network-blogging-concept-guy-vlogger-typing-keyboard-top-angle-view-horizontal_48369-27257.jpg)
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Henry Verissimo</h1>
 
