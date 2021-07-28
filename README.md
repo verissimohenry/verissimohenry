@@ -22,10 +22,10 @@ I am open to new opportunities. You can check me out on social media https://lin
 </p>
 
 <p align="center">
-   <a [![Verissimo's github stats](https://github-readme-stats.vercel.app/api?username=verissimohenry)
+ [![Verissimo's github stats](https://github-readme-stats.vercel.app/api?username=verissimohenry)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=verissimohenry&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-   </a>
+   
 </p>
                
 ## How to reach me
