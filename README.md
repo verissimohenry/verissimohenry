@@ -2,12 +2,6 @@
 
 # Hi there 👋, I'm Verissimo Henry
 
-## Skills and Experience 
-* :snowflake: React
-* :iphone: React Native
-* :computer: HTML, CSS, JS
-
-
 ## Studying
 - 🔭 I’m currently working on My own company and Studing at ![](https://img.shields.io/badge/Microverse-blueviolet)
 
