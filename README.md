@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on My own company and Studing at ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-- 👨‍💻 All of my projects are available at **[verissimocapital.netlify](https://verissimocapital.netlify.app/)**
+- 👨‍💻 All of my projects are available at **[verissimocapital.netlify](https://deploy-preview-1--verissimocapital.netlify.app/)**
 
 I am a full-stack software developer, javascript enthusiast, and photographer.
 
