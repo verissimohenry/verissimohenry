@@ -3,11 +3,11 @@
 <h3 align="center">A full-stack web developer from Nigeria</h3>
 
 
-- 🔭 I’m currently working on my own company and Studing at ![](https://img.shields.io/badge/Microverse-blueviolet)
+- 🔭 I’m currently working on my own company and studying at ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 - 👨‍💻 All of my projects are available at **[verissimocapital.netlify](https://verissimocapital.netlify.app/)**
 
-I am a full-stack software developer, javascript enthusiast, and photographer.
+I am a full-stack software developer, JavaScript enthusiast, and photographer.
 
 I enjoy thought-provoking conversations about new languages, frameworks, and the African tech start-up scene.
 
